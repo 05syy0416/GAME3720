@@ -14,7 +14,7 @@
   "name":"Room1",
   "parent":{
     "name":"房间",
-    "path":"folders/房间.yy",
+    "path":"folders/字体/房间.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
