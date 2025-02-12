@@ -34,6 +34,7 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_robot","path":"sprites/spr_robot/spr_robot.yy",},},
   ],
