@@ -35,8 +35,10 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},},
+    {"id":{"name":"obj_sink","path":"objects/obj_sink/obj_sink.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"spr_robot","path":"sprites/spr_robot/spr_robot.yy",},},
+    {"id":{"name":"Spr_sink","path":"sprites/Spr_sink/Spr_sink.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
