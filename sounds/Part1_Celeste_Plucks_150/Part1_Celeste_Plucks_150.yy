@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Part1",
+  "%Name":"Part1_Celeste_Plucks_150",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,16 +10,16 @@
   "compression":0,
   "conversionMode":0,
   "duration":12.799975,
-  "name":"Part1",
+  "name":"Part1_Celeste_Plucks_150",
   "parent":{
-    "name":"声音",
-    "path":"folders/声音.yy",
+    "name":"Part1",
+    "path":"folders/声音/Part1.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Part1.mp3",
+  "soundFile":"Part1_Celeste_Plucks_150.mp3",
   "type":0,
   "volume":1.0,
 }
