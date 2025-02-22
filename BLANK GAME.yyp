@@ -48,6 +48,7 @@
     {"id":{"name":"Part1_Vocal_Chop_150","path":"sounds/Part1_Vocal_Chop_150/Part1_Vocal_Chop_150.yy",},},
     {"id":{"name":"spr_robot","path":"sprites/spr_robot/spr_robot.yy",},},
     {"id":{"name":"Spr_sink","path":"sprites/Spr_sink/Spr_sink.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
