@@ -8,8 +8,8 @@
   "name":"obj_sink",
   "overriddenProperties":[],
   "parent":{
-    "name":"物体",
-    "path":"folders/物体.yy",
+    "name":"wash game",
+    "path":"folders/物体/wash game.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wash_minigame",
+  "%Name":"obj_bubbles",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wash_minigame",
+  "name":"obj_bubbles",
   "overriddenProperties":[],
   "parent":{
     "name":"wash game",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wash_background",
-    "path":"sprites/spr_wash_background/spr_wash_background.yy",
+    "name":"spr_bubbles",
+    "path":"sprites/spr_bubbles/spr_bubbles.yy",
   },
   "spriteMaskId":null,
   "visible":true,
