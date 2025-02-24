@@ -47,8 +47,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"精灵",
+    "path":"folders/精灵.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
