@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"便签","folderPath":"folders/便签.yy","name":"便签","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,6 +40,7 @@
     {"id":{"name":"obj_dish","path":"objects/obj_dish/obj_dish.yy",},},
     {"id":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},},
     {"id":{"name":"obj_sink","path":"objects/obj_sink/obj_sink.yy",},},
+    {"id":{"name":"obj_wash_minigame_controller","path":"objects/obj_wash_minigame_controller/obj_wash_minigame_controller.yy",},},
     {"id":{"name":"obj_wash_minigame","path":"objects/obj_wash_minigame/obj_wash_minigame.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
