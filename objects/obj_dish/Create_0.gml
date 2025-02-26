@@ -1,23 +1,26 @@
+// Assign the dish sprite
+sprite_index = spr_dish;
+image_alpha = 1; // ensures we can see it
 
-//Defines all the dishes
-var dish_sprites = [spr_dish1, spr_dish2, spr_dish3, spr_dish4];
-
-//chooses dishes randomly. Written like this in case we wanted to add more
-sprite_index = dish_sprites[irandom(array_length(dish_sprites) - 1)]
-
+// Ensure the image is visible
+image_alpha = 1;
+image_xscale = 0.05; // Adjust as needed
+image_yscale = 0.05; // Adjust as needed
 
 
-//start position (left side of the sink)
+// ✅ Ensure the dish is in the correct layer
+layer = layer_get_id("GUI");
+
+// ✅ Move it to the front
+depth = -1000;
+
+// Positioning variables
 x_start = x;
 y_start = y;
 washed = false;
 washing = false;
 wash_timer = 0;
-max_wash_time = 120; //~2 seconds
-
-
-
-
+max_wash_time = 120; // ~2 seconds
 
 
 

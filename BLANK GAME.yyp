@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"obj_bubbles","path":"objects/obj_bubbles/obj_bubbles.yy",},},
     {"id":{"name":"obj_dish","path":"objects/obj_dish/obj_dish.yy",},},
+    {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},},
     {"id":{"name":"obj_sink","path":"objects/obj_sink/obj_sink.yy",},},
     {"id":{"name":"obj_wash_minigame_controller","path":"objects/obj_wash_minigame_controller/obj_wash_minigame_controller.yy",},},
