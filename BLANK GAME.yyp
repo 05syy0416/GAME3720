@@ -43,8 +43,8 @@
     {"id":{"name":"obj_sink","path":"objects/obj_sink/obj_sink.yy",},},
     {"id":{"name":"obj_wash_minigame_controller","path":"objects/obj_wash_minigame_controller/obj_wash_minigame_controller.yy",},},
     {"id":{"name":"obj_wash_minigame","path":"objects/obj_wash_minigame/obj_wash_minigame.yy",},},
+    {"id":{"name":"rm_dishwashing","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Part1_Celeste_Plucks_150","path":"sounds/Part1_Celeste_Plucks_150/Part1_Celeste_Plucks_150.yy",},},
     {"id":{"name":"Part1_Full_150","path":"sounds/Part1_Full_150/Part1_Full_150.yy",},},
     {"id":{"name":"Part1_Guitar_Chops_150","path":"sounds/Part1_Guitar_Chops_150/Part1_Guitar_Chops_150.yy",},},
@@ -66,7 +66,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"rm_dishwashing","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,25 +1,18 @@
 
-//spaghetti codeeee
-//Setting Global Variable
-if (!variable_global_exists("mini_game_active")){
-	global.mini_game_active = false;	
-}
 
-//Function that tells
-function interact_with_wash_minigame() {
+function interact_with_wawsh_minigame() {
 	if (!global.mini_game_active) {
-	global.mini_game_active = true;
-	show_debug_message("创建洗碗小游戏实例！");
-	var mini_game = instance_create_layer(x,y,"GUI", obj_wash_minigame_controller)
-	mini_game.minigame_active = true;
+		global.mini_game_active = true;
+		room_goto(rm_dishwashing); //switching 
 	}
+	
 }
-
 
 if (place_meeting(x, y, obj_robot) && keyboard_check_pressed(ord("E"))) {
-	interact_with_wash_minigame();	//calls interact function
-}
 	
+	interact_with_wawsh_minigame()
+	
+}	
 
 
 //Old Code
