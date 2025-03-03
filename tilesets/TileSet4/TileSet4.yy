@@ -12,8 +12,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"房间",
-    "path":"folders/房间.yy",
+    "name":"图块集",
+    "path":"folders/图块集.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

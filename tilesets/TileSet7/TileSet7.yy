@@ -1,26 +1,23 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet5",
+  "%Name":"TileSet7",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet5",
-  "out_columns":6,
+  "name":"TileSet7",
+  "out_columns":0,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"图块集",
-    "path":"folders/图块集.yy",
+    "name":"房间",
+    "path":"folders/房间.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"Sprite16",
-    "path":"sprites/Sprite16/Sprite16.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -34,5 +31,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":36,
+  "tile_count":0,
 }

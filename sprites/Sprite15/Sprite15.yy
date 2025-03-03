@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"房间",
-    "path":"folders/房间.yy",
+    "name":"图块集",
+    "path":"folders/图块集.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
