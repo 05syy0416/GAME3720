@@ -9,24 +9,13 @@ depth = -1000;
 
 
 //Adding Wash Progress
-global.washing = false;
+washing = false;
 wash_timer = 0;
 max_wash_time = 120; //total wash time about 2 sec
+wash_timer = max_wash_time; //start timer
+done =false;
 
-if (!global.washing) {
-	
-	global.washing = true;
-	wash_timer = max_wash_time; //start timer
-	
-}
 
-if (global.washing) {
-	wash_timer -= 1; //reduce timer each step
-	
-	if (wash_timer <=0) { 
-		global.washing = false; //stop washing when timer hits 0
-	}
-}
 
 
 

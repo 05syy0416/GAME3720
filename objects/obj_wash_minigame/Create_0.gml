@@ -18,3 +18,4 @@ for (var i = 0; i < 4; i++) {
 	dish.image_yscale = dish.image_xscale;
 	dish.image_index = i;
 }
+
