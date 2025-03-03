@@ -14,4 +14,7 @@ for (var i = 0; i < 4; i++) {
     var dish = instance_create_depth(x + dish_positions[i][0], y + dish_positions[i][1], -900, obj_dish);
     dish.index = i;  // 给每个碗编号
     dish.cleaned = false; // 记录是否已洗
+	dish.image_xscale = 0.1;
+	dish.image_yscale = dish.image_xscale;
+	dish.image_index = i;
 }
