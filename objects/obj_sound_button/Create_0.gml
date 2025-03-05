@@ -1,50 +1,57 @@
-
-// Store the original position
-original_x = x;
-original_y = y;
-selected = false;
 placed = false;
 
-// ✅ Define the available sound loops
-var loops = [Part1_Guitar_Chops_150, Part1_Vocal_Chop_150, Part1_Kicks_150, Part1_Sub_Bass_150, Part1_Snare_150, Part1_Celeste_Plucks_150];
-
-// ✅ Only assign `loop_id` if it hasn't been set manually
-if (!variable_instance_exists(id, "loop_id")) {
-    loop_id = instance_number(obj_sound_button) - 1; // ✅ Assign unique ID based on placement order
+// 🔥 初始化索引（确保不同按钮有不同索引）
+if (!variable_instance_exists(id, "index")) {
+    index = irandom_range(0, 5); 
 }
 
-// ✅ Ensure `loop_id` is within range before assigning `sound_loop`
-if (loop_id >= 0 && loop_id < array_length(loops)) {
-    sound_loop = loops[loop_id]; // Assign sound based on loop_id
-} else {
-    show_message("Error: loop_id out of range! Value = " + string(loop_id));
-    sound_loop = snd_loop_1; // Default to prevent errors
-}
+// 🎵 绑定音效
+var sounds = [
+    Part1_Celeste_Plucks_150,
+    Part1_Guitar_Chops_150,
+    Part1_Kicks_150,
+    Part1_Snare_150,
+    Part1_Sub_Bass_150,
+    Part1_Vocal_Chop_150
+];
 
-// ✅ Ensure `loop_id` is within the correct range
-if (loop_id < 0 || loop_id > 5) {
-    show_message("Error: Invalid loop_id for button! Value = " + string(loop_id));
-    instance_destroy(); // ✅ Delete the button if the ID is invalid
-}
+// 🎨 绑定不同的 Sprite
+var sprites = [
+    spr_music_button1, spr_music_button2, spr_music_button3,
+    spr_music_button4, spr_music_button5, spr_music_button6
+];
 
+// 确保索引在有效范围内
+index = clamp(index, 0, array_length(sounds) - 1);
 
+// 设定当前对象的声音和精灵
+my_sound = sounds[index];
+sprite_index = sprites[index];
 
+// 🎯 预设按钮的可能位置
+var positions = [
+    [135, 90], [57, 366],   // 左上角，右上角
+    [192, 508], [1053, 86], // 左下角，右下角
+    [1246, 316], [1162, 489] // 上中，下中
+];
 
+// 确保索引在 `positions` 的有效范围内
+index = clamp(index, 0, array_length(positions) - 1);
+x = positions[index][0];
+y = positions[index][1];
 
+// 按钮大小缩小 50%
+image_xscale = 0.1;
+image_yscale = 0.1;
 
+// 🔊 初始化音量
+global.default_volume = 0.2;
 
+// 🎶 初始化播放控制
+hover_played = false;
+dragging = false;  // 是否正在拖动
+placed = false;    // 是否已放置
 
-// ✅ Assign a unique sprite based on loop_id
-var button_sprites = [spr_music_button1, spr_music_button2, spr_music_button3, spr_music_button4, spr_music_button5, spr_music_button6];
-sprite_index = button_sprites[loop_id]; // ✅ Each button gets a different sprite
-
-// ✅ Scale to 20% size
-image_xscale = 0.2;
-image_yscale = 0.2;
-
-
-
-
-sound_instance = -1; // ✅ Initialize to avoid undefined errors
-
-show_message("Button Created - Loop ID: " + string(loop_id) + " | Sprite: " + string(sprite_index));
+// 记录初始位置
+original_x = x;
+original_y = y;

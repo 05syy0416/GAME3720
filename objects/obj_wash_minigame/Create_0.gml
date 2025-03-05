@@ -1,5 +1,5 @@
 // 记录当前洗的碗数
-dishes_cleaned = 0;
+global.dishes_cleaned = 0;
 
 // 定义四个碗的位置
 var dish_positions = [

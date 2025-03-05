@@ -1,22 +1,6 @@
-var correct_order = [2, 4, 1, 3, 5, 0]; // ✅ The correct sequence
-
-// ✅ Count filled slots and store their order
-var filled_slots = 0;
-var user_order = [];
-
-with (obj_sound_slot) {
-    if (loop_id != -1) { // ✅ Only count slots with a placed sound
-        filled_slots++;
-        user_order[array_length(user_order)] = loop_id;
-    }
-}
-
-// ✅ Only check order when all slots are filled
-if (filled_slots == 6) {
-    if (array_equals(user_order, correct_order)) {
-        show_message("✅ Correct Order! Playing song...");
-        play_composition();
-    } else {
-        show_message("❌ Incorrect Order! Try again.");
+for (var i = 0; i < 6; i++) {
+    var btn = instance_create_depth(0, 0, 0, obj_sound_button); // 先创建
+    with (btn) {
+        index = i; // 逐个分配 index，确保 0-5
     }
 }

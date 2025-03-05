@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sound_button",
+  "%Name":"obj_music_redbutton",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sound_button",
+  "name":"obj_music_redbutton",
   "overriddenProperties":[],
   "parent":{
     "name":"Music Mini Game 1",
@@ -31,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_music_redbutton",
+    "path":"sprites/spr_music_redbutton/spr_music_redbutton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
