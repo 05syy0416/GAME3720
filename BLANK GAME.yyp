@@ -31,11 +31,13 @@
     {"$GMFolder":"","%Name":"脚本","folderPath":"folders/脚本.yy","name":"脚本","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"路径","folderPath":"folders/路径.yy","name":"路径","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"IMG_0812.webp","CopyToMask":-1,"filePath":"datafiles","name":"IMG_0812.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -94,7 +96,11 @@
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
+    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
+    {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
+    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"Weixin_Image_20250223010204","path":"sprites/Weixin_Image_20250223010204/Weixin_Image_20250223010204.yy",},},
     {"id":{"name":"Weixin_Image_202502230102045","path":"sprites/Weixin_Image_202502230102045/Weixin_Image_202502230102045.yy",},},
     {"id":{"name":"Weixin_Image_202502230102046","path":"sprites/Weixin_Image_202502230102046/Weixin_Image_202502230102046.yy",},},
