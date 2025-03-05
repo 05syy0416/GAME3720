@@ -45,7 +45,7 @@ image_xscale = 0.1;
 image_yscale = 0.1;
 
 // 🔊 初始化音量
-global.default_volume = 0.2;
+global.default_volume = 0.02;
 
 // 🎶 初始化播放控制
 hover_played = false;
