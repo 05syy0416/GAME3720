@@ -46,3 +46,6 @@ if (mouse_check_button_released(mb_left)) {
         instance_create_layer(target_x, target_y, "Instances", obj_music_redbutton);
     }
 }
+inst = instance_place(x,y,obj_correct_trigger);
+if inst != noone done = inst.done;
+else done = false;

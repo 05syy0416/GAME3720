@@ -1,4 +1,6 @@
 placed = false;
+correct = "musicnote";
+done = false;
 
 // 🔥 初始化索引（确保不同按钮有不同索引）
 if (!variable_instance_exists(id, "index")) {
@@ -23,10 +25,20 @@ var sprites = [
 
 // 确保索引在有效范围内
 index = clamp(index, 0, array_length(sounds) - 1);
+which = index;
 
 // 设定当前对象的声音和精灵
 my_sound = sounds[index];
 sprite_index = sprites[index];
+switch (index) {
+	case 0: correct = "bird"; break;
+	case 1: correct = "grass"; break;
+	case 2: correct = "sun"; break;
+	case 3: correct = "water"; break;
+	case 4: correct = "flower"; break;
+	case 5: correct = "leaf"; break;
+	default: correct = "leaf"; break;
+}
 
 // 🎯 预设按钮的可能位置
 var positions = [

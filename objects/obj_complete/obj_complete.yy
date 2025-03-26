@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sound_button",
+  "%Name":"obj_complete",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sound_button",
+  "name":"obj_complete",
   "overriddenProperties":[],
   "parent":{
-    "name":"Music Mini Game 1",
-    "path":"folders/物体/Music Mini Game 1.yy",
+    "name":"BLANK GAME",
+    "path":"BLANK GAME.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
