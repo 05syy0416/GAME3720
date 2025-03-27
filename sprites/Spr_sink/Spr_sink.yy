@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"精灵",
-    "path":"folders/精灵.yy",
+    "name":"spr washing game",
+    "path":"folders/精灵/spr washing game.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

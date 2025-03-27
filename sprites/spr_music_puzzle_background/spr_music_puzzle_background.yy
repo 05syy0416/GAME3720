@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"精灵",
-    "path":"folders/精灵.yy",
+    "name":"spr music game 1",
+    "path":"folders/精灵/spr music game 1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
