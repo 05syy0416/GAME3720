@@ -24,8 +24,8 @@
   ],
   "name":"rm_dishwashing",
   "parent":{
-    "name":"房间",
-    "path":"folders/房间.yy",
+    "name":"rm_ALL housework game",
+    "path":"folders/房间/rm_ALL housework game.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
