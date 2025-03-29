@@ -27,7 +27,7 @@
         {"$GMRInstance":"v1","%Name":"inst_6B06E714","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B06E714","objectId":{"name":"obj_correct_trigger","path":"objects/obj_correct_trigger/obj_correct_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.66818184,"scaleY":0.5136364,"x":753.0,"y":455.0,},
         {"$GMRInstance":"v1","%Name":"inst_533B1FC1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_533B1FC1","objectId":{"name":"obj_correct_trigger","path":"objects/obj_correct_trigger/obj_correct_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.66818184,"scaleY":0.5136364,"x":892.0,"y":368.0,},
         {"$GMRInstance":"v1","%Name":"inst_6A533F31","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A533F31","objectId":{"name":"obj_correct_trigger","path":"objects/obj_correct_trigger/obj_correct_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.66818184,"scaleY":0.5136364,"x":276.0,"y":314.0,},
-        {"$GMRInstance":"v1","%Name":"inst_334C8EBF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_334C8EBF","objectId":{"name":"obj_complete","path":"objects/obj_complete/obj_complete.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":832.0,},
+        {"$GMRInstance":"v1","%Name":"inst_334C8EBF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_334C8EBF","objectId":{"name":"obj_complete_family","path":"objects/obj_complete_family/obj_complete_family.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-32.0,"y":800.0,},
       ],"layers":[],"name":"Inst_Music_Buttons","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_6A7658D1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6A7658D1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5845896,"scaleY":0.46282977,"spriteId":{"name":"spr_music_puzzle_background","path":"sprites/spr_music_puzzle_background/spr_music_puzzle_background.yy",},"x":-32.0,"y":0.0,},
@@ -37,8 +37,8 @@
   ],
   "name":"rm_muzik_puzzle_1",
   "parent":{
-    "name":"房间",
-    "path":"folders/房间.yy",
+    "name":"rm_ALL music game",
+    "path":"folders/房间/rm_ALL music game.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
