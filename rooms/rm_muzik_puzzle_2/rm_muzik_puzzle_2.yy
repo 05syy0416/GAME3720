@@ -13,8 +13,8 @@
   ],
   "name":"rm_muzik_puzzle_2",
   "parent":{
-    "name":"rm_ALL music game",
-    "path":"folders/房间/rm_ALL music game.yy",
+    "name":"房间",
+    "path":"folders/房间.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
