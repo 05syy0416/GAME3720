@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"spr music game2",
-    "path":"folders/精灵/ALL music game/spr music game2.yy",
+    "path":"folders/精灵/spr music game2.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
