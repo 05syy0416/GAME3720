@@ -2,6 +2,10 @@
   "$GMMainOptions":"v1",
   "%Name":"Main",
   "name":"Main",
+<<<<<<< HEAD
+=======
+  "option_audio_error_behaviour":true,
+>>>>>>> 0bef71ec634ef94ae57f363a3631af03f3ece1cc
   "option_author":"",
   "option_collision_compatibility":false,
   "option_copy_on_write_enabled":false,
@@ -9,6 +13,12 @@
   "option_gameguid":"43ff06fd-ed25-4f76-85ed-eb85eed0f135",
   "option_gameid":"0",
   "option_game_speed":60,
+<<<<<<< HEAD
+=======
+  "option_legacy_json_parsing":true,
+  "option_legacy_number_conversion":true,
+  "option_legacy_other_behaviour":true,
+>>>>>>> 0bef71ec634ef94ae57f363a3631af03f3ece1cc
   "option_mips_for_3d_textures":false,
   "option_remove_unused_assets":false,
   "option_sci_usesci":false,
