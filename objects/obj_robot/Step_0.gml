@@ -1,5 +1,5 @@
 // 移动速度
-move_speed = 3;
+move_speed = 2;
 
 // 左右移动（支持方向键 & WASD）
 if (keyboard_check(vk_left) || keyboard_check(ord("A"))) {
