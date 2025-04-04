@@ -1,3 +1,4 @@
+/*
 // 误差范围
 var tolerance = 40; 
 
@@ -66,3 +67,4 @@ if (closest_index != -1) {
     x = start_x;
     y = start_y;
 }
+*/
