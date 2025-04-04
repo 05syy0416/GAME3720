@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Inside_Home",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":105.0,
+  "name":"Inside_Home",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/声音/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Inside_Home.mp3",
+  "type":0,
+  "volume":1.0,
+}
