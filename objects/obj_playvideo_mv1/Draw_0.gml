@@ -14,5 +14,7 @@ if (_videoStatus == 0) //playing without error
 		var draw_y = -50;
 		
 		draw_surface_ext(_videoSurface, draw_x, draw_y, scale, scale, 0, c_white, 1);
+	}
+	
 }
-}
+
