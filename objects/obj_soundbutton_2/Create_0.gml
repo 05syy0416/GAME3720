@@ -1,6 +1,7 @@
 placed = false;
 correct = "musicnote";
 done = false;
+default_volume1 = 1;
 
 // 🔥 初始化索引（确保不同按钮有不同索引）
 if (!variable_instance_exists(id, "index")) {
@@ -43,10 +44,15 @@ var positions = [
     [1246, 316], [1162, 489] // 上中，下中
 ];
 
+/*
 // 确保索引在 `positions` 的有效范围内
 index = clamp(index, 0, array_length(positions) - 1);
+*/
+
 x = positions[index][0];
 y = positions[index][1];
+
+
 
 // 按钮大小缩小 50%
 image_xscale = 0.05;

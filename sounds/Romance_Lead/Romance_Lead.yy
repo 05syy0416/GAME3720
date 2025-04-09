@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":13.728,
+  "duration":13.728004,
   "name":"Romance_Lead",
   "parent":{
     "name":"Part2",
