@@ -192,11 +192,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_muzik_puzzle_2","path":"rooms/rm_muzik_puzzle_2/rm_muzik_puzzle_2.yy",},},
     {"roomId":{"name":"rm_muzik_puzzle_1","path":"rooms/rm_muzik_puzzle_1/rm_muzik_puzzle_1.yy",},},
     {"roomId":{"name":"rm_mv1","path":"rooms/rm_mv1/rm_mv1.yy",},},
     {"roomId":{"name":"rm_window","path":"rooms/rm_window/rm_window.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"rm_muzik_puzzle_2","path":"rooms/rm_muzik_puzzle_2/rm_muzik_puzzle_2.yy",},},
     {"roomId":{"name":"rm_dishwashing","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},},
     {"roomId":{"name":"rm_calendarswitch","path":"rooms/rm_calendarswitch/rm_calendarswitch.yy",},},
     {"roomId":{"name":"rm_titlescreen","path":"rooms/rm_titlescreen/rm_titlescreen.yy",},},
