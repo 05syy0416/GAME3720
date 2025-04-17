@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clean",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_garden",
+  "eventList":[],
   "managed":true,
-  "name":"obj_clean",
+  "name":"Obj_garden",
   "overriddenProperties":[],
   "parent":{
-    "name":"window game",
-    "path":"folders/物体/window game.yy",
+    "name":"物体",
+    "path":"folders/物体.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clean",
-    "path":"sprites/spr_clean/spr_clean.yy",
+    "name":"garden",
+    "path":"sprites/garden/garden.yy",
   },
   "spriteMaskId":null,
   "visible":true,

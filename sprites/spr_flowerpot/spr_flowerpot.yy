@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_flowerpot",
   "bboxMode":0,
-  "bbox_bottom":2047,
-  "bbox_left":0,
-  "bbox_right":1535,
+  "bbox_bottom":1958,
+  "bbox_left":270,
+  "bbox_right":1255,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5d2ffecb-7eb7-4594-aa2c-a0587dbe2bb7","name":"5d2ffecb-7eb7-4594-aa2c-a0587dbe2bb7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":2048,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"66de1721-84be-49e0-977e-f3e216faf0db","blendMode":0,"displayName":"default","isLocked":false,"name":"66de1721-84be-49e0-977e-f3e216faf0db","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"803392c5-502c-4f68-aa69-f4d6d173ec56","blendMode":0,"displayName":"default","isLocked":false,"name":"803392c5-502c-4f68-aa69-f4d6d173ec56","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_flowerpot",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5d2ffecb-7eb7-4594-aa2c-a0587dbe2bb7","path":"sprites/spr_flowerpot/spr_flowerpot.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b3b356ff-a004-4ff9-a1c0-34d24e2b6976","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","path":"sprites/spr_flowerpot/spr_flowerpot.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5f5da9c3-5c36-4c33-9eb4-be682fafa622","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
