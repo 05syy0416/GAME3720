@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_flowerpot",
-    "path":"sprites/spr_flowerpot/spr_flowerpot.yy",
+    "name":"spr_flowerpotreal",
+    "path":"sprites/spr_flowerpotreal/spr_flowerpotreal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
