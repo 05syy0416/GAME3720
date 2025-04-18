@@ -47,8 +47,8 @@
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"5DC9FA96-9019-4AB1-8C4D-5B0F798E67EE.mov","CopyToMask":-1,"filePath":"datafiles","name":"5DC9FA96-9019-4AB1-8C4D-5B0F798E67EE.mov","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"IMG_0812.webp","CopyToMask":-1,"filePath":"datafiles","name":"IMG_0812.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"mv1.mp4.mp4","CopyToMask":-1,"filePath":"datafiles","name":"mv1.mp4.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"MusicVideo2.mp4","CopyToMask":-1,"filePath":"datafiles","name":"MusicVideo2.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"mv1.mp4.mp4","CopyToMask":-1,"filePath":"datafiles","name":"mv1.mp4.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"WeChat_20250407022146.mp4","CopyToMask":-1,"filePath":"datafiles","name":"WeChat_20250407022146.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
