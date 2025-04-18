@@ -2,16 +2,24 @@
   "$GMSprite":"",
   "%Name":"spr_button",
   "bboxMode":0,
+<<<<<<< HEAD:sprites/spr_button/spr_button.yy
   "bbox_bottom":980,
   "bbox_left":95,
   "bbox_right":1829,
   "bbox_top":89,
+=======
+  "bbox_bottom":1958,
+  "bbox_left":270,
+  "bbox_right":1255,
+  "bbox_top":0,
+>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:sprites/spr_flowerpot/spr_flowerpot.yy
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< HEAD:sprites/spr_button/spr_button.yy
     {"$GMSpriteFrame":"","%Name":"3019dfd4-e147-4e3d-b461-2c73148c48d6","name":"3019dfd4-e147-4e3d-b461-2c73148c48d6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
@@ -20,6 +28,16 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"9d30b300-38ca-4369-b7c4-977ac7ce2a65","blendMode":0,"displayName":"default","isLocked":false,"name":"9d30b300-38ca-4369-b7c4-977ac7ce2a65","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMSpriteFrame":"","%Name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+  ],
+  "gridX":0,
+  "gridY":0,
+  "height":2048,
+  "HTile":false,
+  "layers":[
+    {"$GMImageLayer":"","%Name":"803392c5-502c-4f68-aa69-f4d6d173ec56","blendMode":0,"displayName":"default","isLocked":false,"name":"803392c5-502c-4f68-aa69-f4d6d173ec56","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:sprites/spr_flowerpot/spr_flowerpot.yy
   ],
   "name":"spr_button",
   "nineSlice":null,
@@ -63,16 +81,26 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+<<<<<<< HEAD:sprites/spr_button/spr_button.yy
     "seqHeight":1080.0,
     "seqWidth":1920.0,
+=======
+    "seqHeight":2048.0,
+    "seqWidth":1536.0,
+>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:sprites/spr_flowerpot/spr_flowerpot.yy
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< HEAD:sprites/spr_button/spr_button.yy
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3019dfd4-e147-4e3d-b461-2c73148c48d6","path":"sprites/spr_button/spr_button.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"73a806f8-b0a7-416f-8995-589c41c589d9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c219767e-8e1b-4d48-90a1-63cf2e34b5fd","path":"sprites/spr_flowerpot/spr_flowerpot.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5f5da9c3-5c36-4c33-9eb4-be682fafa622","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:sprites/spr_flowerpot/spr_flowerpot.yy
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -88,5 +116,9 @@
   },
   "type":0,
   "VTile":false,
+<<<<<<< HEAD:sprites/spr_button/spr_button.yy
   "width":1920,
+=======
+  "width":1536,
+>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:sprites/spr_flowerpot/spr_flowerpot.yy
 }

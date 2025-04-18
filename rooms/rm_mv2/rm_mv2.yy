@@ -1,6 +1,10 @@
 {
   "$GMRoom":"v1",
+<<<<<<<< HEAD:rooms/rm_mv2/rm_mv2.yy
   "%Name":"rm_mv2",
+========
+  "%Name":"rm_muzik_puzzle_3",
+>>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:rooms/rm_muzik_puzzle_3/rm_muzik_puzzle_3.yy
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
@@ -17,7 +21,11 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
+<<<<<<<< HEAD:rooms/rm_mv2/rm_mv2.yy
   "name":"rm_mv2",
+========
+  "name":"rm_muzik_puzzle_3",
+>>>>>>>> 4b144af131f0e02a86580ec4a85d8cf3b5369e0a:rooms/rm_muzik_puzzle_3/rm_muzik_puzzle_3.yy
   "parent":{
     "name":"房间",
     "path":"folders/房间.yy",
