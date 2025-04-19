@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bubbles",
+  "%Name":"obj_wiping_background",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_bubbles",
+  "name":"obj_wiping_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"wash game",
-    "path":"folders/物体/wash game.yy",
+    "name":"wiping game",
+    "path":"folders/物体/wiping game.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bubbles",
-    "path":"sprites/spr_bubbles/spr_bubbles.yy",
+    "name":"spr_wiping_background",
+    "path":"sprites/spr_wiping_background/spr_wiping_background.yy",
   },
   "spriteMaskId":null,
   "visible":true,

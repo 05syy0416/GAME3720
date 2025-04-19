@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bubbles",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_dirt",
+  "eventList":[],
   "managed":true,
-  "name":"obj_bubbles",
+  "name":"obj_dirt",
   "overriddenProperties":[],
   "parent":{
-    "name":"wash game",
-    "path":"folders/物体/wash game.yy",
+    "name":"wiping game",
+    "path":"folders/物体/wiping game.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bubbles",
-    "path":"sprites/spr_bubbles/spr_bubbles.yy",
+    "name":"spr_dirt",
+    "path":"sprites/spr_dirt/spr_dirt.yy",
   },
   "spriteMaskId":null,
   "visible":true,

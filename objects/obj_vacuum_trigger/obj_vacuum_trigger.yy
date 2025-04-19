@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bubbles",
+  "%Name":"obj_vacuum_trigger",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_bubbles",
+  "name":"obj_vacuum_trigger",
   "overriddenProperties":[],
   "parent":{
-    "name":"wash game",
-    "path":"folders/物体/wash game.yy",
+    "name":"wiping game",
+    "path":"folders/物体/wiping game.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bubbles",
-    "path":"sprites/spr_bubbles/spr_bubbles.yy",
+    "name":"spr_vac",
+    "path":"sprites/spr_vac/spr_vac.yy",
   },
   "spriteMaskId":null,
   "visible":true,
