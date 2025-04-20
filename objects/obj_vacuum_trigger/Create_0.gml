@@ -1,0 +1,1 @@
+global.dirt_cleaned = 0;
