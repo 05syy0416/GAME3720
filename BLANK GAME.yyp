@@ -60,7 +60,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.0.190",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"BLANK GAME",
   "resources":[
@@ -90,7 +90,8 @@
     {"id":{"name":"obj_dirty","path":"objects/obj_dirty/obj_dirty.yy",},},
     {"id":{"name":"obj_dish","path":"objects/obj_dish/obj_dish.yy",},},
     {"id":{"name":"obj_doghouse","path":"objects/obj_doghouse/obj_doghouse.yy",},},
-    {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
+    {"id":{"name":"obj_door_lock","path":"objects/obj_door_lock/obj_door_lock.yy",},},
+    {"id":{"name":"obj_door_unlock","path":"objects/obj_door_unlock/obj_door_unlock.yy",},},
     {"id":{"name":"obj_flowerpot","path":"objects/obj_flowerpot/obj_flowerpot.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"obj_GAME_OPEN","path":"objects/obj_GAME_OPEN/obj_GAME_OPEN.yy",},},

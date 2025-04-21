@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
+  "%Name":"obj_door_lock",
   "eventList":[],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_door_lock",
   "overriddenProperties":[],
   "parent":{
     "name":"物体",
