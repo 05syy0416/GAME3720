@@ -1,14 +1,14 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_garden",
-  "creationCodeFile":"rooms/rm_garden/RoomCreationCode.gml",
+  "%Name":"rm_garden_1",
+  "creationCodeFile":"rooms/rm_garden_1/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_61231D49_1","path":"rooms/rm_garden/rm_garden.yy",},
-    {"name":"inst_2489B255_1","path":"rooms/rm_garden/rm_garden.yy",},
-    {"name":"inst_F6DD7BF","path":"rooms/rm_garden/rm_garden.yy",},
+    {"name":"inst_61231D49_1","path":"rooms/rm_garden_1/rm_garden_1.yy",},
+    {"name":"inst_2489B255_1","path":"rooms/rm_garden_1/rm_garden_1.yy",},
+    {"name":"inst_F6DD7BF","path":"rooms/rm_garden_1/rm_garden_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -66,7 +66,7 @@
     {"$GMRBackgroundLayer":"","%Name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Backgrounds_1","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":false,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":false,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_garden",
+  "name":"rm_garden_1",
   "parent":{
     "name":"房间",
     "path":"folders/房间.yy",
