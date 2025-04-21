@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Friendship_PianoChop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.2,
+  "name":"Friendship_PianoChop",
+  "parent":{
+    "name":"Part 3",
+    "path":"folders/声音/Part 3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Friendship_PianoChop.mp3",
+  "type":0,
+  "volume":1.0,
+}

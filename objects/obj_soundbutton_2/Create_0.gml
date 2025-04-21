@@ -55,8 +55,8 @@ y = positions[index][1];
 
 
 // 按钮大小缩小 50%
-image_xscale = 0.05;
-image_yscale = 0.05;
+image_xscale = 0.08;
+image_yscale = 0.08;
 
 // 🔊 初始化音量
 global.default_volume = 0.02;

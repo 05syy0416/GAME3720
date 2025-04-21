@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Friendship_Hat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":7.2,
+  "name":"Friendship_Hat",
+  "parent":{
+    "name":"Part 3",
+    "path":"folders/声音/Part 3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Friendship_Hat.mp3",
+  "type":0,
+  "volume":1.0,
+}
