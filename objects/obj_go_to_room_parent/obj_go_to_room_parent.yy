@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"room_name","filters":[],"listItems":[],"multiselect":false,"name":"room_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_living_room","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"room_name","filters":[],"listItems":[],"multiselect":false,"name":"room_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_living_room1","path":"rooms/rm_living_room1/rm_living_room1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_living_room1","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
