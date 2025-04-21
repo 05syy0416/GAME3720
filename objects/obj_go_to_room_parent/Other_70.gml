@@ -4,5 +4,5 @@ var _type = async_load[? "type"];
 
 if (_type == "video_end")
 {
-    room_goto_next();
+    room_goto(room_name);
 }

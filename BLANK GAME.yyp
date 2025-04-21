@@ -100,6 +100,7 @@
     {"id":{"name":"obj_goto_room_mv2","path":"objects/obj_goto_room_mv2/obj_goto_room_mv2.yy",},},
     {"id":{"name":"obj_goto_room_mv3","path":"objects/obj_goto_room_mv3/obj_goto_room_mv3.yy",},},
     {"id":{"name":"obj_goto_room_mv4","path":"objects/obj_goto_room_mv4/obj_goto_room_mv4.yy",},},
+    {"id":{"name":"obj_mouse_controller","path":"objects/obj_mouse_controller/obj_mouse_controller.yy",},},
     {"id":{"name":"obj_music_controller_2","path":"objects/obj_music_controller_2/obj_music_controller_2.yy",},},
     {"id":{"name":"obj_music_controller_3","path":"objects/obj_music_controller_3/obj_music_controller_3.yy",},},
     {"id":{"name":"obj_music_controller","path":"objects/obj_music_controller/obj_music_controller.yy",},},
@@ -232,6 +233,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_titlescreen","path":"rooms/rm_titlescreen/rm_titlescreen.yy",},},
+    {"roomId":{"name":"rm_living_room2","path":"rooms/rm_living_room2/rm_living_room2.yy",},},
     {"roomId":{"name":"rm_muzik_puzzle_3","path":"rooms/rm_muzik_puzzle_3/rm_muzik_puzzle_3.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_dishwashing","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},},
@@ -249,7 +251,6 @@
     {"roomId":{"name":"rm_window","path":"rooms/rm_window/rm_window.yy",},},
     {"roomId":{"name":"rm_mv2","path":"rooms/rm_mv2/rm_mv2.yy",},},
     {"roomId":{"name":"rm_calendarswitch","path":"rooms/rm_calendarswitch/rm_calendarswitch.yy",},},
-    {"roomId":{"name":"rm_living_room2","path":"rooms/rm_living_room2/rm_living_room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
