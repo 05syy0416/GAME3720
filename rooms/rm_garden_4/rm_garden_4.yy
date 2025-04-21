@@ -1,27 +1,23 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_garden_2",
+  "%Name":"rm_garden_4",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_565BA813","path":"rooms/rm_garden_2/rm_garden_2.yy",},
-    {"name":"inst_3C36E45B","path":"rooms/rm_garden_2/rm_garden_2.yy",},
-    {"name":"inst_1E43A1E2","path":"rooms/rm_garden_2/rm_garden_2.yy",},
-    {"name":"inst_7D91C645","path":"rooms/rm_garden_2/rm_garden_2.yy",},
+    {"name":"inst_6B6E326D","path":"rooms/rm_garden_4/rm_garden_4.yy",},
+    {"name":"inst_4725BFC9","path":"rooms/rm_garden_4/rm_garden_4.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_565BA813","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_565BA813","objectId":{"name":"obj_garden_background","path":"objects/obj_garden_background/obj_garden_background.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.671875,"scaleY":0.50000006,"x":0.0,"y":0.0,},
-        {"$GMRInstance":"v2","%Name":"inst_3C36E45B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3C36E45B","objectId":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.09947647,"scaleY":0.09323583,"x":384.0,"y":512.0,},
-        {"$GMRInstance":"v2","%Name":"inst_1E43A1E2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E43A1E2","objectId":{"name":"obj_doghouse","path":"objects/obj_doghouse/obj_doghouse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.083333336,"scaleY":0.078125,"x":1056.0,"y":416.0,},
-        {"$GMRInstance":"v2","%Name":"inst_7D91C645","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D91C645","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.75081635,"scaleX":0.104166664,"scaleY":0.109375,"x":736.0,"y":288.0,},
+        {"$GMRInstance":"v2","%Name":"inst_6B6E326D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B6E326D","objectId":{"name":"obj_garden_background","path":"objects/obj_garden_background/obj_garden_background.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.671875,"scaleY":0.49999997,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v2","%Name":"inst_4725BFC9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4725BFC9","objectId":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.12041888,"scaleY":0.10786095,"x":416.0,"y":512.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_garden_2",
+  "name":"rm_garden_4",
   "parent":{
     "name":"房间",
     "path":"folders/房间.yy",
