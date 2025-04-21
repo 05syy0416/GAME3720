@@ -66,6 +66,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_bgm_controller","path":"objects/obj_bgm_controller/obj_bgm_controller.yy",},},
+    {"id":{"name":"obj_bgm_garden","path":"objects/obj_bgm_garden/obj_bgm_garden.yy",},},
     {"id":{"name":"obj_bgm_livingroom","path":"objects/obj_bgm_livingroom/obj_bgm_livingroom.yy",},},
     {"id":{"name":"obj_bgm_titlescreen","path":"objects/obj_bgm_titlescreen/obj_bgm_titlescreen.yy",},},
     {"id":{"name":"obj_bubbles","path":"objects/obj_bubbles/obj_bubbles.yy",},},
@@ -156,6 +157,7 @@
     {"id":{"name":"Friendship_PianoChop","path":"sounds/Friendship_PianoChop/Friendship_PianoChop.yy",},},
     {"id":{"name":"Friendship_Snare","path":"sounds/Friendship_Snare/Friendship_Snare.yy",},},
     {"id":{"name":"Friendship_Vocals","path":"sounds/Friendship_Vocals/Friendship_Vocals.yy",},},
+    {"id":{"name":"Garden","path":"sounds/Garden/Garden.yy",},},
     {"id":{"name":"Inside_v2","path":"sounds/Inside_v2/Inside_v2.yy",},},
     {"id":{"name":"Part1_Celeste_Plucks_150","path":"sounds/Part1_Celeste_Plucks_150/Part1_Celeste_Plucks_150.yy",},},
     {"id":{"name":"Part1_Full_150","path":"sounds/Part1_Full_150/Part1_Full_150.yy",},},

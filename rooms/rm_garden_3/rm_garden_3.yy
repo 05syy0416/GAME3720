@@ -10,6 +10,7 @@
     {"name":"inst_39965B62","path":"rooms/rm_garden_3/rm_garden_3.yy",},
     {"name":"inst_6A04908C","path":"rooms/rm_garden_3/rm_garden_3.yy",},
     {"name":"inst_C93A7D4","path":"rooms/rm_garden_3/rm_garden_3.yy",},
+    {"name":"inst_204872C6","path":"rooms/rm_garden_3/rm_garden_3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,7 @@
         {"$GMRInstance":"v2","%Name":"inst_C93A7D4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C93A7D4","objectId":{"name":"obj_door_lock","path":"objects/obj_door_lock/obj_door_lock.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":1.4234344,"scaleX":0.104166664,"scaleY":0.109375,"x":736.0,"y":320.0,},
         {"$GMRInstance":"v2","%Name":"inst_6A04908C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A04908C","objectId":{"name":"obj_swing","path":"objects/obj_swing/obj_swing.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.1875,"scaleY":0.28125,"x":256.0,"y":0.0,},
         {"$GMRInstance":"v2","%Name":"inst_39965B62","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39965B62","objectId":{"name":"obj_robot","path":"objects/obj_robot/obj_robot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.12041885,"scaleY":0.107861,"x":896.0,"y":480.0,},
+        {"$GMRInstance":"v2","%Name":"inst_204872C6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_204872C6","objectId":{"name":"obj_bgm_garden","path":"objects/obj_bgm_garden/obj_bgm_garden.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":800.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
