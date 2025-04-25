@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_flowerpot",
+  "%Name":"obj_calendar_switch",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_flowerpot",
+  "name":"obj_calendar_switch",
   "overriddenProperties":[],
   "parent":{
-    "name":"Music Mini Game 1",
-    "path":"folders/物体/Music Mini Game 1.yy",
+    "name":"物体",
+    "path":"folders/物体.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_flowerpotreal",
-    "path":"sprites/spr_flowerpotreal/spr_flowerpotreal.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

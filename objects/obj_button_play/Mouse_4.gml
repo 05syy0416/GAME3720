@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rm_living_room1);
+room_goto(rm_day1);
