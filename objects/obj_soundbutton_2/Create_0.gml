@@ -34,7 +34,7 @@ switch (index) {
 	case 3: correct = "bear"; break;
 	case 4: correct = "ribbon"; break;
 	case 5: correct = "chocolate"; break;
-	default: correct = "rose"; break;
+	//default: correct = "rose"; break;
 }
 
 // 🎯 预设按钮的可能位置
@@ -44,10 +44,10 @@ var positions = [
     [1246, 316], [1162, 489] // 上中，下中
 ];
 
-/*
+
 // 确保索引在 `positions` 的有效范围内
 index = clamp(index, 0, array_length(positions) - 1);
-*/
+
 
 x = positions[index][0];
 y = positions[index][1];
