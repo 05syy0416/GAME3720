@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"obj_goto_room_mv3",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_go_to_room_parent","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"propertyId":{"name":"room_name","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"resource":{"name":"rm_garden_4","path":"rooms/rm_garden_4/rm_garden_4.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_garden_4",},
+  ],
   "parent":{
     "name":"Video Coding",
     "path":"folders/物体/Video Coding.yy",

@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_goto_room_mv1",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_go_to_room_parent","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"propertyId":{"name":"room_name","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"resource":{"name":"rm_remember2","path":"rooms/rm_remember2/rm_remember2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_remember2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_go_to_room_parent","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"propertyId":{"name":"room_name","path":"objects/obj_go_to_room_parent/obj_go_to_room_parent.yy",},"resource":{"name":"rm_day2","path":"rooms/rm_day2/rm_day2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_day2",},
   ],
   "parent":{
     "name":"Video Coding",

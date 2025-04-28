@@ -10,6 +10,7 @@
     {"name":"inst_74D1162E","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},
     {"name":"inst_2A6D6D8D","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},
     {"name":"inst_5FB7CA3","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},
+    {"name":"inst_1083D938","path":"rooms/rm_dishwashing/rm_dishwashing.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,9 @@
         {"$GMRInstance":"v2","%Name":"inst_74D1162E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74D1162E","objectId":{"name":"obj_wash_minigame_controller","path":"objects/obj_wash_minigame_controller/obj_wash_minigame_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":800.0,},
         {"$GMRInstance":"v2","%Name":"inst_2A6D6D8D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A6D6D8D","objectId":{"name":"obj_wash_minigame","path":"objects/obj_wash_minigame/obj_wash_minigame.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v2","%Name":"inst_5FB7CA3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FB7CA3","objectId":{"name":"obj_robot_hands","path":"objects/obj_robot_hands/obj_robot_hands.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.58458966,"scaleY":0.42446044,"x":0.0,"y":64.0,},
+        {"$GMRInstance":"v2","%Name":"inst_1083D938","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1083D938","objectId":{"name":"tut_DishwashingGame","path":"objects/tut_DishwashingGame/tut_DishwashingGame.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tutorial_message","path":"objects/obj_tutorial_message/obj_tutorial_message.yy",},"propertyId":{"name":"tutorial_message_txt","path":"objects/obj_tutorial_message/obj_tutorial_message.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Wash the Dishes from Right to left using the mouse",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-64.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_4401160F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_4401160F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_wash_background","path":"sprites/spr_wash_background/spr_wash_background.yy",},"x":0.0,"y":0.0,},

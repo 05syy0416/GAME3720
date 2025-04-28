@@ -15,6 +15,7 @@
     {"name":"inst_533B1FC1","path":"rooms/rm_muzik_puzzle_1/rm_muzik_puzzle_1.yy",},
     {"name":"inst_6A533F31","path":"rooms/rm_muzik_puzzle_1/rm_muzik_puzzle_1.yy",},
     {"name":"inst_334C8EBF","path":"rooms/rm_muzik_puzzle_1/rm_muzik_puzzle_1.yy",},
+    {"name":"inst_479ED9EA","path":"rooms/rm_muzik_puzzle_1/rm_muzik_puzzle_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -28,6 +29,7 @@
         {"$GMRInstance":"v2","%Name":"inst_533B1FC1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_533B1FC1","objectId":{"name":"obj_correct_trigger","path":"objects/obj_correct_trigger/obj_correct_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.66818184,"scaleY":0.5136364,"x":892.0,"y":368.0,},
         {"$GMRInstance":"v2","%Name":"inst_6A533F31","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A533F31","objectId":{"name":"obj_correct_trigger","path":"objects/obj_correct_trigger/obj_correct_trigger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.66818184,"scaleY":0.5136364,"x":276.0,"y":314.0,},
         {"$GMRInstance":"v2","%Name":"inst_334C8EBF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_334C8EBF","objectId":{"name":"obj_complete","path":"objects/obj_complete/obj_complete.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":832.0,},
+        {"$GMRInstance":"v2","%Name":"inst_479ED9EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_479ED9EA","objectId":{"name":"tut_MusicGames","path":"objects/tut_MusicGames/tut_MusicGames.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":832.0,},
       ],"layers":[],"name":"Inst_Music_Buttons","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
